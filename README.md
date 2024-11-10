@@ -1,6 +1,8 @@
-# Multiple-Intelligence-Dashboard
+# LIVE PROJECT : Multiple-Intelligence-Dashboard
 
-Live Project : "Dashboards are not provided here due to confidential issue"
+"Dashboards are not provided here due to confidential issue"
+
+**Authors: Multiple (equal contribution), Analytics Committee (2023-25 batch) of JAGSOM**
 
 **Development of Class XI and XII Student Intelligence Dashboards with Career and Academic Recommendations**
 
